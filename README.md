@@ -41,9 +41,25 @@
 
 ## 📌 ERD
 
+### 전체 ERD
 <p>
   <img src="https://github.com/fatrugi/ks46team4/assets/123074059/ed10fb23-1b52-4596-a05e-47474b422027">
 </p>
+
+### 회원 ERD
+![user ERD](https://github.com/fatrugi/ks46team4/assets/128572455/f2342099-0a19-4518-b59f-9c37f1339e3d)
+
+### 재단 및 상품 ERD
+![재단 상품입출고 ERD](https://github.com/fatrugi/ks46team4/assets/128572455/544ee7e0-03b6-4fba-891c-1739da553f8e)
+
+### 펀딩 ERD
+![펀딩ERD](https://github.com/fatrugi/ks46team4/assets/128572455/01260431-2bc3-4484-94ce-8a9e05dd8ac2)
+
+### 정기후원 ERD
+![정기후원ERD](https://github.com/fatrugi/ks46team4/assets/128572455/278a61d9-6017-4478-ac36-190c1b9406e7)
+
+### 재무 ERD
+![재무ERD](https://github.com/fatrugi/ks46team4/assets/128572455/53d8938b-4101-468e-81dd-1ba227a29e95)
 
 
 
