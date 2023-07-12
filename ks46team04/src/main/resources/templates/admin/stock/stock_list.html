@@ -406,7 +406,7 @@
 			                    message += `삭제된 재고: ${removed.join(', ')}\n`;
 			                }
 			                if (notRemoved.length > 0) {
-			                    message += `삭제할 수 없는 재고(재고 있음): ${notRemoved.join(', ')}\n`;
+			                    message += `삭제할 수 없는 재고(출고가능 수량 있음): ${notRemoved.join(', ')}\n`;
 			                }
 			                alert(message);
 			                location.reload();
