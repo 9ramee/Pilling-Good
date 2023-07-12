@@ -35,17 +35,13 @@
 - 팀원 백지은 - 정기 후원 관리
 
 ## ⚙️ 개발 환경
-- Language : Java, JavaScript(JQuery : jquery-3.6.0), HTML, CSS 
-- DB : MySQL(8.0.26) 
-- DB관리툴 : HeidiSQL(12.3.0.6589)
-- OS : CentOS8 
-- 웹서버 : Nginx(1.24.0)
-- WAS : Tomcat(10.1.7)
-- jdk : 17.0.6-ea, 2023-01-17 LTS 
-- Apache Maven : 3.5.4 (Red Hat 3.5.4-5) 
-- 협업툴 : GitHub, google공유드라이브, exerd 
-- 프레임워크 : Eclipse 2023-03 release/STS4(4.18.0), springframework(3.0.5), spring-webmvc(6.0.7), Maven, mybatis(3.5.11), mybatis-spring(3.0.0), bootstrap4 
-- API : jackson.core(2.14.2), spring-jdbc(6.0.7), mysql-connector-java(8.0.32), log4j2(1.16), thymeleaf(3.*)
+- Language : Java17, JavaScript(ES6), JQuery(Ajax), Thymeleaf(3.*), HTML5, CSS3
+- Framework : Spring Boot(3.0.5), Maven, MyBatis(3.5.11), Bootstrap4
+- DB : MySQL(8.0.26)
+- Tool : Spring Tool Suite 4, Eclipse, Visual Stuido Code, HeidSQL, Exerd, Git, GitHub
+- OS : CentOS8
+- Server : Nginx, Jenkins, Apache Tomcat(10.1.7), Oracle Cloud
+- API :  Spring JDBC(6.0.7), Log4j2(1.16), Thymeleaf(3.*), Jackson Core(2.14.2), Daum 주소 API
 
 ## 📌 ERD
 
