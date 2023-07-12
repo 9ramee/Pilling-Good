@@ -60,7 +60,7 @@ public class FoundationService {
 	public int addFoundationRequest(FoundationRequest foundationRequest) {
 		
 		// 재단요청사항코드 - 공통 mapper를 사용하여 foundationRequestCode 생성 및 설정
-		String foundationRequestCode = commonMapper.getPrimaryKeyVerTwo("foundation_request1"
+		String foundationRequestCode = commonMapper.getPrimaryKeyVerTwo("foundation_request"
 																, "foundation_request_code"
 																, "foundation_request");
 		foundationRequest.setFoundationRequestCode(foundationRequestCode);
