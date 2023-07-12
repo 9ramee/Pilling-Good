@@ -45,7 +45,7 @@
 - Apache Maven : 3.5.4 (Red Hat 3.5.4-5) 
 - 협업툴 : GitHub, google공유드라이브, exerd 
 - 프레임워크 : Eclipse 2023-03 release/STS4(4.18.0), springframework(3.0.5), spring-webmvc(6.0.7), Maven, mybatis(3.5.11), mybatis-spring(3.0.0), bootstrap4 
-API : jackson.core(2.14.2), spring-jdbc(6.0.7), mysql-connector-java(8.0.32), log4j2(1.16), thymeleaf(3.*)
+- API : jackson.core(2.14.2), spring-jdbc(6.0.7), mysql-connector-java(8.0.32), log4j2(1.16), thymeleaf(3.*)
 
 ## 📌 ERD
 
