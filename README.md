@@ -35,14 +35,15 @@
 - 팀원 백지은 - 정기 후원 관리
 
 ## ⚙️ 개발 환경
-- Language : Java17, JavaScript(ES6), JQuery(Ajax), Thymeleaf(3.*), HTML5, CSS3
-- Framework : Spring Boot(3.0.5), Maven, MyBatis(3.5.11), Bootstrap4
-- DB : MySQL(8.0.26)
-- Tool : Spring Tool Suite 4, Eclipse, Visual Stuido Code, HeidSQL, Exerd, Git, GitHub
-- OS : CentOS8
-- Server : Nginx, Jenkins, Apache Tomcat(10.1.7), Oracle Cloud
-- API :  Spring JDBC(6.0.7), Log4j2(1.16), Thymeleaf(3.*), Jackson Core(2.14.2), Daum 주소 API
-
+- Language : Java 17, JavaScript (ES6), HTML5, CSS3
+- OS : CentOS 8
+- DB : MySQL 8.0.26
+- Tool : Spring Tool Suite 4, Eclipse, Visual Studio Code, HeidSQL, Exerd, Git, GitHub, google 공유 드라이브
+- Server : Nginx, Jenkins, Apache Tomcat 10.1.7, Oracle Cloud Platform
+- Framework : Spring Framework 6.0.7, Maven, MyBatis 3.5.11, Bootstrap 4
+- Library : mybatis-spring 3.0.0, mysql-connector-java 8.0.32, jQuery 3.0.0 (Ajax), Log4j2 1.16, Thymeleaf 3.*, Date Range Picker
+- API : Daum 주소 API
+  
 ## 📌 ERD
 
 ### 전체 ERD
