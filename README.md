@@ -40,7 +40,7 @@
 - DB : MySQL 8.0.26
 - Tool : Spring Tool Suite 4, Eclipse, Visual Studio Code, HeidSQL, Exerd, Git, GitHub, google 공유 드라이브
 - Server : Nginx, Jenkins, Apache Tomcat 10.1.7, Oracle Cloud Platform
-- Framework : Spring Framework 6.0.7, Maven, MyBatis 3.5.11, Bootstrap 4
+- Framework : Spring Boot Framework 3.0.5, Maven, MyBatis 3.5.11, Bootstrap 4
 - Library : mybatis-spring 3.0.0, mysql-connector-java 8.0.32, jQuery 3.0.0 (Ajax), Log4j2 1.16, Thymeleaf 3.*, Date Range Picker
 - API : Daum 주소 API
   
